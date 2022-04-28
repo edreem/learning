@@ -1,0 +1,55 @@
+{
+  "uid" : "ae010267705056de",
+  "name" : "test04",
+  "fullName" : "case.series.Test_inquire.Test_inquire#test04",
+  "historyId" : "b2bb964217a2926f54acccdcc32333d6",
+  "time" : {
+    "start" : 1651131831804,
+    "stop" : 1651131831804,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case.series"
+  }, {
+    "name" : "suite",
+    "value" : "Test_inquire"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_inquire"
+  }, {
+    "name" : "host",
+    "value" : "C02F63FFMD6R"
+  }, {
+    "name" : "thread",
+    "value" : "46326-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.series.Test_inquire"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae010267705056de.json",
+  "parameterValues" : [ ]
+}

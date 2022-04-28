@@ -1,0 +1,7 @@
+"Status","Name","Duration in ms","Description"
+"passed","case.series.Test_inquire.Test_inquire#test04","0",""
+"passed","case.series.Test_inquire.Test_inquire#test01","0",""
+"passed","case.series.Test_inquire.Test_inquire#test02","0",""
+"passed","case.index.Test_demo.Test_index#test02","0",""
+"failed","case.series.Test_inquire.Test_inquire#test03","0",""
+"passed","case.index.Test_demo.Test_index#test01","0",""
