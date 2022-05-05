@@ -9,7 +9,7 @@ class Test_inquire():
         print("第二条用例")
 
     def test03(self):
-        assert 1==1
+        assert 1==2
         # print("第一条用例")
 
     def test04(self):
