@@ -1,4 +1,4 @@
-from base.load_yaml import clear_yaml
+# from base.load_yaml import clear_yaml
 import pytest
 # from test_locust.test.sql_demo import Sql_Base
 
