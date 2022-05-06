@@ -14,3 +14,6 @@ class Test_inquire():
 
     def test04(self):
         print("第二条用例")
+
+    def test05(self):
+        pass
