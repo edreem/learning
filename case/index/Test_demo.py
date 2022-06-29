@@ -1,7 +1,7 @@
 import pytest
 
 
-class Test_index():
+class Test_index:
 
     def test01(self):
 
